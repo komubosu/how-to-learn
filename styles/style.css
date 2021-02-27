@@ -129,7 +129,6 @@
 .section-title {
   width: 60%;
   text-align: center;
-  margin: 0;
   line-height: 1.15;
   font-size: 60px;
   font-weight: bold;
@@ -197,7 +196,6 @@
 }
 
 .feynman__subtitle {
-  margin: 0;
   text-align: center;
   line-height: 51px;
   font-size: 36px;
